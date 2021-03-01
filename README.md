@@ -1,8 +1,15 @@
-# Voice Memo App Using HTML5, Media Recorder and getUserMedia APIs
+<h1 align="center"> Voice Memo App usando HTML5, Media Recorder e getUserMedia APIs</h1>
+
+Uma aplicação capaz de gravar e reproduzir voz diretamente pelo navegador, usando seus próprios recursos. Escrito em JavaScript ou Modulo ECMAScript. 
 
 ## Running
 
 - npm ci && npm start
+
+## Imagens da aplicação
+
+<img src="https://github.com/Franklyn-Sancho/voice_memo_js/blob/main/screen.jpg">
+<img src="https://github.com/Franklyn-Sancho/voice_memo_js/blob/main/screen2.jpg">
 
 ## Demo
 
