@@ -2,20 +2,25 @@
 
 Uma aplicação capaz de gravar e reproduzir voz diretamente pelo navegador, usando seus próprios recursos. Escrito em JavaScript ou Modulo ECMAScript. 
 
-## Running
 
-- npm ci && npm start
 
 ## Imagens da aplicação
 
 <img src="https://github.com/Franklyn-Sancho/voice_memo_js/blob/main/screen.jpg">
 <img src="https://github.com/Franklyn-Sancho/voice_memo_js/blob/main/screen2.jpg">
 
+## Como executar
+
+- Abra o seu terminal 
+- Entre na pasta do projeto pelo comando cd
+- Digite npm ci && npm start
+
 ## Demo
 
-- When you click start recording it'll record your voice and then play it .
+- Ao clicar em gravar, sua voz será gravada e então reproduzida
 
 
 ## Credits
 
+- Erick Wendel
 - Layout got from [Ettrics' CodePen](https://codepen.io/ettrics/pen/KpzzQZ)# voice_memo_js
