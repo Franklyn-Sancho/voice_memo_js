@@ -9,6 +9,13 @@ Uma aplicação capaz de gravar e reproduzir voz diretamente pelo navegador, usa
 <img src="https://github.com/Franklyn-Sancho/voice_memo_js/blob/main/screen.jpg">
 <img src="https://github.com/Franklyn-Sancho/voice_memo_js/blob/main/screen2.jpg">
 
+## Tecnologias usadas nessa aplicação 
+
+![Badge](https://img.shields.io/static/v1?label=nodejs&message=BUilt&color=green&style=for-the-badge&logo=node.js)
+![Badge](https://img.shields.io/static/v1?label=css3&message=language&color=blue&style=for-the-badge&logo=css3)
+![Badge](https://img.shields.io/static/v1?label=html5&message=language&color=red&style=for-the-badge&logo=html5)
+![Badge](https://img.shields.io/static/v1?label=javascript&message=language&color=yellow&style=for-the-badge&logo=javascript)
+
 ## Como executar
 
 - Abra o seu terminal 
